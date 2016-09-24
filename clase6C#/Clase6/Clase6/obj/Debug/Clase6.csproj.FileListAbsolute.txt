@@ -1,0 +1,9 @@
+D:\clase6C#\Clase6\Clase6\bin\Debug\Clase6.exe.config
+D:\clase6C#\Clase6\Clase6\bin\Debug\Clase6.exe
+D:\clase6C#\Clase6\Clase6\bin\Debug\Clase6.pdb
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.Properties.Resources.resources
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.UserControl1.resources
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.csproj.GenerateResource.Cache
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.exe
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.pdb
+D:\clase6C#\Clase6\Clase6\obj\Debug\Clase6.Form1.resources

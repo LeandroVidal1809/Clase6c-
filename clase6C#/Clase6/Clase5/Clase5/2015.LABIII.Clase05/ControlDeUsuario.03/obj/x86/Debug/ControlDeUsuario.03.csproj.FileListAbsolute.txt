@@ -1,0 +1,40 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.frmPropiedades.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.dll
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.frmPropiedades.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.dll
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.frmPropiedades.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\Clase 5 Control de Usuario\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.pdb
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.exe
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\ControlDeUsuario.03.pdb
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.dll
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\bin\Debug\MisControles.pdb
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csprojResolveAssemblyReference.cache
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.frmPropiedades.resources
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario._03.Properties.Resources.resources
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.csproj.GenerateResource.Cache
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.exe
+D:\clase6C#\Clase6\Clase5\Clase5\2015.LABIII.Clase05\ControlDeUsuario.03\obj\x86\Debug\ControlDeUsuario.03.pdb

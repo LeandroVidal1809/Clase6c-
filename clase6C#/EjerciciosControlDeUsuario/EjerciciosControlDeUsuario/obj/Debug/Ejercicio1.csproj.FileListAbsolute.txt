@@ -1,0 +1,8 @@
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\bin\Debug\EjerciciosControlDeUsuario.exe.config
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\bin\Debug\EjerciciosControlDeUsuario.exe
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\bin\Debug\EjerciciosControlDeUsuario.pdb
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\obj\Debug\EjerciciosControlDeUsuario.Properties.Resources.resources
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\obj\Debug\EjerciciosControlDeUsuario.exe
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\obj\Debug\EjerciciosControlDeUsuario.pdb
+D:\clase6C#\EjerciciosControlDeUsuario\EjerciciosControlDeUsuario\obj\Debug\EjerciciosControlDeUsuario.Form1.resources

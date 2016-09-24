@@ -1,0 +1,12 @@
+using System.Windows.Forms; // para formularios
+using System.Drawing; //para colores
+
+textbox tiene propiedades validating , validated
+validating va a estar validando , aunque deja continuar
+
+e.cancel, no permite salir del evento
+blinkrate intermitencia
+
+dialogresult
+
+listbox y lista trabajan juntos, se trabaja en la listas y se carga en listbox
